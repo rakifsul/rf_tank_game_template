@@ -1,6 +1,7 @@
-# rf_tank_game_template - Godot Engine Tank Game Template
+<details>
+<summary>English</summary>
 
-[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_tank_game_template/blob/main/README_id.md)
+# rf_tank_game_template - Godot Engine Tank Game Template
 
 ## Intro
 
@@ -23,3 +24,35 @@ Open with Godot Engine 3, then run the scene.
 ## Freelance Worker Link
 
 - https://projects.co.id/public/browse_users/view/99bc11/rakifsul
+
+</details>
+
+<details>
+<summary>Bahasa Indonesia</summary>
+
+# rf_tank_game_template - Godot Engine Tank Game Template
+
+## Pendahuluan
+
+Project ini adalah template game tank yang dibuat menggunakan Godot Engine.
+
+## Download di Mana
+
+Download project ini pada halaman "Releases".
+
+## Cara Penggunaan
+
+Buka dengan Godot Engine 3, lalu jalankan scene-nya.
+
+## Screenshot
+
+<p align="center">
+	<img src="./.md_asset/ss_2024.07.13-2054.png" />
+</p>
+
+## Freelance Worker Link
+
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
+
+</details>
+
